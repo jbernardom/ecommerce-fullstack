@@ -1,0 +1,3 @@
+SECRET_KEY = "mi_clave_secreta_super_segura_123"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 60
